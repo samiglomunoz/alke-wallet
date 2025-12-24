@@ -1,0 +1,117 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.container{
+    background: #20DAD8;
+background: linear-gradient(130deg, rgba(32, 218, 216, 1) 50%, #6EE6DE 50%);
+    margin-top: 15vh;
+    width: 100%;
+    max-width: 450px;
+    height: 750px;
+}
+
+.logo img{
+    width: 140px;
+}
+
+h1{
+    margin: 1.3em 0 2em;
+    font-size: 2em;
+}
+
+h1 .uno{
+    font-weight: 600;
+}
+
+h1 .dos{
+    font-weight: 300;
+}
+
+.btn-gral{
+    background-color: #960a52;
+    color: #fff;
+    font-weight: 500;
+    border: unset;
+}
+
+.btn-gral:hover{
+    background-color: #fff;
+    color: #960a52;
+}
+
+.login .btn-gral{
+    width: 70%;
+}
+
+.iconUser{
+        
+    color: aqua;
+    background-color: #fff;
+    border-radius: 5em;
+    padding: 2em;
+    width: 40%;
+    margin: 0 auto;
+}
+
+.logo-user span{
+font-size: 4em;
+}
+
+p{
+    margin-bottom: 0;
+}
+
+.card{
+    flex-direction: unset;
+}
+
+.saldo,
+.btnWall{
+        background-color: rgba(241, 241, 241);
+    border-radius: 1em;
+    padding: 1em
+}
+
+.iconBtn span{
+    font-size: 3em;
+}
+
+.iconBtn span,
+.txtBtn h5,
+h4{
+    color: #960a52;
+}
+
+.navbar-brand img{
+    width: 50px;
+}
+
+.navbar{
+    border-bottom: 1px solid #6EE6DE;
+}
+
+.btn-menu{
+    background-color: #208ed9;
+    color: #ffffff;
+}
+
+.btn-menu:hover{
+    background-color: #f7f7f7;
+    color: #208ed9;
+}
+
+.transactions,
+.enviarMoney{
+    height: 820px;
+}
+
+h4 .material-symbols-outlined{
+    font-size: 1.5em;
+    vertical-align: middle;
+    margin-right: 8px;
+}
+
+input.form-control{
+    padding: 1em;
+}
